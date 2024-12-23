@@ -1,17 +1,3 @@
-<p>Welcome, coders! :)</p>
-<p>We have successfully completed the concepts and practice problems on <strong>if...else statements</strong> and <strong>if...else ladder</strong>. I hope you enjoyed solving them! Now, it's time to dive into our next topic in Control Flow: <strong>Loops</strong>.</p>
-<h2>Prerequisites</h2>
-<ul>
-    <li>Read the articles on <strong>while loop</strong> and <strong>for loop</strong> in the Control Flow module.</li>
-    <li>Solve the problems in the "Standard Problems" article of the same module.</li>
-</ul>
-<h2>Suggestions</h2>
-<p>Loops can sometimes make you feel stuck, but the following tips can help you:</p>
-<ol>
-    <li><strong>Decode the range of loops carefully:</strong> Ensure you identify the start and end points to avoid endless loops.</li>
-    <li><strong>Update loop control variables:</strong> Make sure the loop variables are updated within the loop body to ensure termination.</li>
-    <li><strong>Dry run your code:</strong> Always dry run your code with examples to understand its flow and correctness. This is a universal tip for all programming problems.</li>
-</ol>
 <h2>Problems</h2>
 <h3>Problem 1: Sum of First and Last Digit</h3>
 <p>Write a C++ program to input a number and find the sum of the first and last digit using a for loop.</p>
