@@ -19,7 +19,7 @@ Output: 2 ^ 5 = 32</code></pre>
 <p>Write a C++ program to print the Fibonacci series up to <code>n</code> terms using a loop.</p>
 <pre><code>Input: N = 10
 Output: Fibonacci series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34</code></pre>
-h2>How to Contribute</h2>
+<h2>How to Contribute</h2>
 <ol>
     <li>Fork the repository.</li>
     <li>Clone your forked repository using the following command:
